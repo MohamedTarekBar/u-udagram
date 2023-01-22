@@ -1,0 +1,25 @@
+- run:
+name: Install Front-End Dependencies
+command: |
+  echo "NODE --version" 
+  echo $(node --version)
+  echo "NPM --version" 
+  echo $(npm --version)
+  npm run frontend:install
+# TODO: Install dependencies in the the backend API   
+# TODO: Lint the frontend
+      - run:
+          name: Front-End Lint
+          command: |
+            npm run frontend:lint
+      # TODO: Build the frontend app
+      - run:
+          name: Front-End Build
+          command: |
+            export NODE_OPTIONS=--openssl-legacy-provider
+            npm run frontend:build
+      # TODO: deploy the frontend app
+      - run:
+          name: Front-End deploy
+          command: |
+            npm run frontend:deploy
