@@ -2,6 +2,22 @@
 
 AWSLINK : http://udagram-udacity.s3-website-us-east-1.amazonaws.com/
 
+screenshoots: 
+diagram:
+<img width="564" alt="diagram" src="https://user-images.githubusercontent.com/77550770/213935243-103ce826-905f-469b-a47e-ccdccfdd8d06.png">
+circle ci:
+<img width="564" alt="circle" src="https://user-images.githubusercontent.com/77550770/213935275-002f5535-45a9-42b3-b399-a336420056c9.png">
+s3:
+<img width="564" alt="s3" src="https://user-images.githubusercontent.com/77550770/213935319-23c1d4a9-7a82-4b0b-90b2-97e753a7664c.png">
+rds:
+<img width="564" alt="rds" src="https://user-images.githubusercontent.com/77550770/213935328-fc2e0a93-c9fd-40bc-a971-e6ad6fccc15c.png">
+eb:
+<img width="564" alt="eb" src="https://user-images.githubusercontent.com/77550770/213935353-197b35bd-7d69-4c7c-8264-d85eb870d0da.png">
+env: 
+<img width="1440" alt="env" src="https://user-images.githubusercontent.com/77550770/213935378-0a37187f-5e90-49a9-920b-4916a577968e.png">
+<img width="1440" alt="env" src="https://user-images.githubusercontent.com/77550770/213935379-bd976b00-fc16-489b-974e-8c41f5f1c9fe.png">
+
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
